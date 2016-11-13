@@ -1,6 +1,8 @@
 ## 2016 Presidential Election
 ### County Level data  
+
 Example of data structure  
+
 | cod   | name  | votes | candidate1 | candidate2 | candidate3 | c | t | j | c1v | c2v | c3v | c1p   | c2p   | c3p  |
 |-------|-------|-------|------------|------------|------------|---|---|---|-----|-----|-----|-------|-------|------|
 | 38001 | Adams | 1206  | t          | c          | j          | 2 | 1 | 3 | 904 | 216 | 65  | 74.96 | 17.91 | 5.39 |
@@ -18,7 +20,7 @@ Example of data structure
 **c1v**: number of votes of first candidate => c1v ~ candidate 1 votes  
 **c2v**: ...  
 **c3v**: ...  
-**c1p**: vote percent of first candidate => c1v ~ candidate 1 votes  
+**c1p**: vote percent of first candidate => c1p ~ candidate 1 percent  
 **c2p**: ...  
 **c3p**: ...  
 
